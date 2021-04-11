@@ -21,5 +21,6 @@ xv6.out*
 .vagrant/
 submissions/
 
+*.pyc
 *.vscode
 *.idea
